@@ -1,0 +1,77 @@
+{
+  "configVersion": 1,
+  "index": "C:/Program Files/Git/Todo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "C:/Program Files/Git/Todo/1.0b4c40dcd1a9930511d4.js",
+        "C:/Program Files/Git/Todo/5.afbdc2c879f5596958fe.js",
+        "C:/Program Files/Git/Todo/6.efe6f55d5b200e0f8b63.js",
+        "C:/Program Files/Git/Todo/favicon.ico",
+        "C:/Program Files/Git/Todo/index.html",
+        "C:/Program Files/Git/Todo/main.4b9478e424439943fb61.js",
+        "C:/Program Files/Git/Todo/polyfills.2fd5ebaa56f7df5af06b.js",
+        "C:/Program Files/Git/Todo/runtime.b61bf3e5e4c2227ce807.js",
+        "C:/Program Files/Git/Todo/styles.0ccbd0328b75d15bdb44.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "C:/Program Files/Git/Todo/assets/icons/icon-128x128.png",
+        "C:/Program Files/Git/Todo/assets/icons/icon-144x144.png",
+        "C:/Program Files/Git/Todo/assets/icons/icon-152x152.png",
+        "C:/Program Files/Git/Todo/assets/icons/icon-192x192.png",
+        "C:/Program Files/Git/Todo/assets/icons/icon-384x384.png",
+        "C:/Program Files/Git/Todo/assets/icons/icon-512x512.png",
+        "C:/Program Files/Git/Todo/assets/icons/icon-72x72.png",
+        "C:/Program Files/Git/Todo/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "C:/Program Files/Git/Todo/1.0b4c40dcd1a9930511d4.js": "e894a71f8b24d78f557fcbee8bb9d6ed676de8af",
+    "C:/Program Files/Git/Todo/5.afbdc2c879f5596958fe.js": "1251ad85493aaafab58a8f6e823a1aee9c79241e",
+    "C:/Program Files/Git/Todo/6.efe6f55d5b200e0f8b63.js": "7fa4123d0ff2119c218ad04bec48348edcc7de41",
+    "C:/Program Files/Git/Todo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "C:/Program Files/Git/Todo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "C:/Program Files/Git/Todo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "C:/Program Files/Git/Todo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "C:/Program Files/Git/Todo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "C:/Program Files/Git/Todo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "C:/Program Files/Git/Todo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "C:/Program Files/Git/Todo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "C:/Program Files/Git/Todo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "C:/Program Files/Git/Todo/index.html": "59fce96d4112d7d5df914b7fd70d8e875519f9b0",
+    "C:/Program Files/Git/Todo/main.4b9478e424439943fb61.js": "7931caff54ce2e516a353addc0c0a96df1144d19",
+    "C:/Program Files/Git/Todo/polyfills.2fd5ebaa56f7df5af06b.js": "35efac68587d6024202d011a4139365d4b37942a",
+    "C:/Program Files/Git/Todo/runtime.b61bf3e5e4c2227ce807.js": "e59f47083e9d3c29c4b221f821fafd90631b0ac5",
+    "C:/Program Files/Git/Todo/styles.0ccbd0328b75d15bdb44.css": "c047a668e6882ba9110720f1b9f4611f139b2e49"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
